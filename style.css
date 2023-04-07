@@ -1,0 +1,6 @@
+section > ul {
+    background-color: aquamarine;
+}
+li + li {
+    background-color: black;
+}
